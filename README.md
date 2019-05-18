@@ -9,9 +9,11 @@ Awesome .NET (Alpha Version)
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
 
+
 ## Tutorials
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
+* [C# Walkthroughs](https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs) - Walkthroughs give step-by-step instructions for common scenarios, which makes them a good place to start learning about the product or a particular feature area.
 
 
 
