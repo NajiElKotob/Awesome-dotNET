@@ -23,7 +23,8 @@ Awesome .NET (Alpha Version)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
 * [C# Walkthroughs](https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs) - Walkthroughs give step-by-step instructions for common scenarios, which makes them a good place to start learning about the product or a particular feature area.
 
-
+## Videos
+* [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 
 ## Machine Learning
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
