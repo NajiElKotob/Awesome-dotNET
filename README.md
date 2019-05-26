@@ -9,15 +9,16 @@ Awesome .NET (Alpha Version)
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
 
-## Online C# Compiler
-* [Online GDB](https://www.onlinegdb.com/online_csharp_compiler)
-* [repl.it](https://repl.it/languages/csharp)
-* [.NET Fiddle](https://dotnetfiddle.net/) 
-* [Rextester](https://rextester.com/)
-* [Sharplab](https://sharplab.io) 
-
-
-
+## Online C# Compiler and Tools
+* Compiler
+  * [Online GDB](https://www.onlinegdb.com/online_csharp_compiler)
+  * [repl.it](https://repl.it/languages/csharp)
+  * [.NET Fiddle](https://dotnetfiddle.net/) 
+  * [Rextester](https://rextester.com/)
+  * [Sharplab](https://sharplab.io) 
+* UML
+  * [Draw.io](https://draw.io) 
+  
 ## Tutorials
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
@@ -27,6 +28,11 @@ Awesome .NET (Alpha Version)
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 * [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
   * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
+
+## Design Patters
+* [C# Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
+* [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
+* [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
 
 ## Machine Learning
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
