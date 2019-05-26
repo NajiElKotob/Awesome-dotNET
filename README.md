@@ -25,6 +25,7 @@ Awesome .NET (Alpha Version)
 
 ## Videos
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
+* [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
 
 ## Machine Learning
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
