@@ -39,6 +39,8 @@ Awesome .NET (Alpha Version)
 * [ML.NET Tutorial](https://dotnet.microsoft.com/learn/machinelearning-ai/ml-dotnet-get-started-tutorial/intro)
 * [ML.NET Model Builder Guide](https://github.com/dotnet/machinelearning-samples/tree/master/modelbuilder)
 
+## Fluent Design
+* [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
 
 ## IoT
 * Raspberry Pi
