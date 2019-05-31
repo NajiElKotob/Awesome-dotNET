@@ -26,6 +26,10 @@ Awesome .NET (Alpha Version)
 
 ## Videos
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
+
+
+## UWP
+* [Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://www.youtube.com/watch?v=k6ZtQITXLys) - Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017.
 * [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
   * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
 
