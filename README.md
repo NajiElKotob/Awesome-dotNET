@@ -33,23 +33,33 @@ Awesome .NET (Alpha Version)
 ### Videos
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 
-## UWP
-* [Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://www.youtube.com/watch?v=k6ZtQITXLys) - Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017.
-* [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
-  * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
-
 ## Design Patters
 * [C# Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
 * [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
 * [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
 
+## Fluent Design
+* [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
+
+
+## UWP
+* [Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://www.youtube.com/watch?v=k6ZtQITXLys) - Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017.
+* [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
+  * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
+
+## MVC
+
+## Windows Forms
+
+## Console
+
+## HoloLens
+* [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
+
 ## Machine Learning
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
 * [ML.NET Tutorial](https://dotnet.microsoft.com/learn/machinelearning-ai/ml-dotnet-get-started-tutorial/intro)
 * [ML.NET Model Builder Guide](https://github.com/dotnet/machinelearning-samples/tree/master/modelbuilder)
-
-## Fluent Design
-* [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
 
 ## IoT
 * Raspberry Pi
