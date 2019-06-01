@@ -41,6 +41,9 @@ Awesome .NET (Alpha Version)
 ## Fluent Design
 * [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
 
+## Naming Conventions
+* [C# Coding Standards and Naming Conventions](https://www.dofactory.com/reference/csharp-coding-standards) - dofactory.com
+* [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Microsoft
 
 ## UWP
 * [Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://www.youtube.com/watch?v=k6ZtQITXLys) - Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017.
@@ -53,6 +56,8 @@ Awesome .NET (Alpha Version)
 
 ## Console
 
+## Xamarin
+
 ## HoloLens
 * [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
 
@@ -61,9 +66,16 @@ Awesome .NET (Alpha Version)
 * [ML.NET Tutorial](https://dotnet.microsoft.com/learn/machinelearning-ai/ml-dotnet-get-started-tutorial/intro)
 * [ML.NET Model Builder Guide](https://github.com/dotnet/machinelearning-samples/tree/master/modelbuilder)
 
+## .NET for Apache Spark
+* [What is .NET for Apache Spark?](https://docs.microsoft.com/en-us/dotnet/spark/what-is-apache-spark-dotnet) - Apache Spark is a general-purpose distributed processing engine for analytics over large data sets-typically terabytes or petabytes of data. .NET for Apache Spark makes Apache Spark accessible for developers, bringing the power of Spark to your applications with support for languages you already know.
+
+
 ## IoT
 * Raspberry Pi
   * [How To Control An LED Using Raspberry Pi 3, Windows IoT Core, And Visual Studio UWP](https://www.c-sharpcorner.com/article/led-on-and-off/)
+
+## Quantum Computing
+* [What is Quantum Computing?](https://docs.microsoft.com/en-us/quantum/concepts/?view=qsharp-preview)
 
 ## Games
 * [Unity](https://unity.com) - Start bringing your vision to life today. Unity’s real-time 3D development platform empowers you with all you need to create, operate, and monetize
