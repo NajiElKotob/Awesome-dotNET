@@ -1,13 +1,17 @@
 # AwesomeDotNET
-Awesome .NET (Alpha Version)
+Awesome .NET
 
 
 
 ## Official Resources
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
+
+
+## Programming Languages
+### C#
 * [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - References about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
-* [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
+
 
 ## Online C# Compiler and Tools
 * Compiler
