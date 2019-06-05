@@ -1,6 +1,8 @@
 # AwesomeDotNET
 Awesome .NET
 
+Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
+
 
 
 ## Official Resources
@@ -37,7 +39,7 @@ Awesome .NET
 ### Videos
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 
-## Design Patters
+## Design Patterns
 * [C# Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
 * [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
 * [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
