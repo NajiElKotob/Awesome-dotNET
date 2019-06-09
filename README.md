@@ -7,13 +7,12 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Xamarin | ML.N
 
 ## Official Resources
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
-
+* [.NET 5](http://bit.ly/31oL6IL) - .NET 5 will be the next biiiiig release in the .NET family.
 
 ## Programming Languages
 ### C#
 * [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - References about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
-
 
 ## Online C# Compiler and Tools
 * Compiler
@@ -63,6 +62,11 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Xamarin | ML.N
 ## Console
 
 ## Xamarin
+
+## Blazor
+* [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
+
+
 
 ## HoloLens
 * [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
