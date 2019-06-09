@@ -1,7 +1,7 @@
 # AwesomeDotNET
 Awesome .NET
 
-Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
+Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
 
 
