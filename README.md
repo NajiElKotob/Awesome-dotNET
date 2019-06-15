@@ -27,6 +27,10 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 ## Tutorials
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
+* Games
+  * [Create a matching game](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-3-create-a-matching-game?view=vs-2019)
+  * [Timed math quiz](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-2-create-a-timed-math-quiz?view=vs-2019)
+  * [Picture viewer](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-1-create-a-picture-viewer?view=vs-2019)
 * [C# Walkthroughs](https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs) - Walkthroughs give step-by-step instructions for common scenarios, which makes them a good place to start learning about the product or a particular feature area.
 
 ## YouTube and Videos
