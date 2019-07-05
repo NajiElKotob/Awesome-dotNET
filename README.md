@@ -3,6 +3,7 @@ Awesome .NET
 
 Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
+> Check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
 
 ## Official Resources
@@ -13,6 +14,7 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 ### C#
 * [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - References about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+> [Other .NET Languages](https://en.wikipedia.org/wiki/List_of_CLI_languages) - Wikipedia
 
 ## Online C# Compiler and Tools
 * Compiler
@@ -59,27 +61,32 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
   * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
 
-## MVC
-
 ## Windows Forms
 
 ## Console
 
 ## Xamarin
+* [Xamarin Docs](https://docs.microsoft.com/en-us/xamarin/) - Microsoft 
 
 ## Web
 
 ### Razor
-
-### MVC Core 3.x
-
+* [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 
 ### Blazor
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
 
+### MVC Core 3.x
+* [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.0) - 
+* [Create a web app with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.0)
+
+
 ### MVC 5
 * [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references by Naji El Kotob
 
+### Microservice
+
+### DevOps
 
 ## HoloLens
 * [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
