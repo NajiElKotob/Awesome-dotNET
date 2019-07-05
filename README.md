@@ -67,9 +67,18 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 
 ## Xamarin
 
-## Blazor
+## Web
+
+### Razor
+
+### MVC Core 3.x
+
+
+### Blazor
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
 
+### MVC 5
+* [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references by Naji El Kotob
 
 
 ## HoloLens
