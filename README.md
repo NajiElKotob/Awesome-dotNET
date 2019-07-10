@@ -79,6 +79,7 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 
 ### MVC Core 3.x
 * [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.0) - 
+* [What's New in ASP.NET Core 3 Preview 6](https://wildermuth.com/2019/06/16/What-s-New-in-ASP-NET-Core-3-Preview-6) - Shawn Wildermuth
 * [Create a web app with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.0)
 
 
@@ -86,6 +87,7 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references by Naji El Kotob
 
 ### Microservice
+* [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
 
 ### DevOps
 
