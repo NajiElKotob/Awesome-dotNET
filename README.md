@@ -68,6 +68,9 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 ## Windows Forms
 
 ## Console
+* [Console Class](https://docs.microsoft.com/en-us/dotnet/api/system.console)
+* [Creating advanced console applications](https://medium.com/@nogravity00/net-creating-advanced-console-applications-c99d58216d36)
+
 
 ## Xamarin
 * [Xamarin Docs](https://docs.microsoft.com/en-us/xamarin/) - Microsoft 
