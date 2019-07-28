@@ -96,6 +96,7 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
 
 ### DevOps
+* [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Plan smarter, collaborate better and ship faster with a set of modern dev services.
 
 ## HoloLens
 * [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
