@@ -35,11 +35,14 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
   * [Picture viewer](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-1-create-a-picture-viewer?view=vs-2019)
 * [C# Walkthroughs](https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs) - Walkthroughs give step-by-step instructions for common scenarios, which makes them a good place to start learning about the product or a particular feature area.
 
-## YouTube and Videos
-### YouTube
+## YouTube and Videos :tv:
+### YouTube 
 * [Microsoft Visual Studio](https://www.youtube.com/user/VisualStudio)
 * [Microsoft Developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
 * [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)
+* [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
+* [Azure DevOps](https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA)
+* [Microsoft Ignite](https://www.youtube.com/channel/UCrhJmfAGQ5K81XQ8_od1iTg)
 
 ### Videos
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
