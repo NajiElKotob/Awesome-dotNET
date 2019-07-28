@@ -101,6 +101,7 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
 * [ML.NET Tutorial](https://dotnet.microsoft.com/learn/machinelearning-ai/ml-dotnet-get-started-tutorial/intro)
 * [ML.NET Model Builder Guide](https://github.com/dotnet/machinelearning-samples/tree/master/modelbuilder)
+* [Awesome ML](https://github.com/NajiElKotob/Awesome-ML) - ML Resources and References by Naji El Kotob
 
 ## .NET for Apache Spark
 * [What is .NET for Apache Spark?](https://docs.microsoft.com/en-us/dotnet/spark/what-is-apache-spark-dotnet) - Apache Spark is a general-purpose distributed processing engine for analytics over large data sets-typically terabytes or petabytes of data. .NET for Apache Spark makes Apache Spark accessible for developers, bringing the power of Spark to your applications with support for languages you already know.
