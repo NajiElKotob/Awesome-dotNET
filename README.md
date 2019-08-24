@@ -91,7 +91,9 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 
 ### Blazor
+Blazor is a framework for building interactive client-side web UI using C# instead of JavaScript.
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
+* [Blazor Tips and Tricks (Video)](https://www.youtube.com/watch?v=KlPaM0yWWbQ)
 
 ### MVC Core 3.x
 * [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.0) - 
