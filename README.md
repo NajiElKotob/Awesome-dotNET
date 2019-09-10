@@ -17,8 +17,7 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 > [Other .NET Languages](https://en.wikipedia.org/wiki/List_of_CLI_languages) - Wikipedia
 
------
-## Online C# Compiler and Tools
+#### Online C# Compiler and Tools
 * Compiler
   * [Online GDB](https://www.onlinegdb.com/online_csharp_compiler)
   * [repl.it](https://repl.it/languages/csharp)
@@ -28,8 +27,8 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * UML
   * [Draw.io](https://draw.io) 
   
------ 
-## Tutorials
+
+#### Tutorials
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
 * Games
