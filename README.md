@@ -72,6 +72,11 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://www.youtube.com/watch?v=k6ZtQITXLys) - Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017.
 * [Developer’s Guide to Windows 10](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM) - Channel 9
   * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
+
+-----
+## XAML
+* [Introducing XAML Studio (Video)](https://www.youtube.com/watch?v=fWoIB1XRStg) - Microsoft Developer
+
 -----
 ## Windows Forms
 
