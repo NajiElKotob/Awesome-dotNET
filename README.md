@@ -51,6 +51,12 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 
 -----
+## Visual Studio
+
+* Tips and Tricks
+  * [Visual Studio's Safe Mode switch](https://www.youtube.com/watch?v=nPZDYsH2uKM)
+
+-----
 ## Design Patterns
 * [C# Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
   * [MVVM](https://scottlilly.com/c-design-patterns-mvvm-model-view-viewmodel/) - scottlilly.com
