@@ -9,6 +9,8 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [.NET 5](http://bit.ly/31oL6IL) - .NET 5 will be the next biiiiig release in the .NET family.
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
+
 
 -----
 ## Programming Languages
