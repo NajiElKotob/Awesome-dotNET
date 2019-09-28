@@ -140,6 +140,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
 * [ML.NET Tutorial](https://dotnet.microsoft.com/learn/machinelearning-ai/ml-dotnet-get-started-tutorial/intro)
 * [ML.NET Model Builder Guide](https://github.com/dotnet/machinelearning-samples/tree/master/modelbuilder)
+* [Introduction to Machine Learning and ML.NET - Part 1](https://www.codeproject.com/Articles/5245488/Introduction-to-Machine-Learning-and-ML-NET-Part-1) - Syed Shanu (Code Project)
 * [Awesome ML](https://github.com/NajiElKotob/Awesome-ML) - ML Resources and References by Naji El Kotob
 
 -----
