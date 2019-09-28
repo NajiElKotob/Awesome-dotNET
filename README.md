@@ -163,5 +163,6 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 -----
 ## Communities
 * [.NET Heroes](https://www.facebook.com/dotnetheroes)
+* [.NET Conf](https://www.dotnetconf.net/) - 
 * [Call for Code](https://callforcode.org) 
 * [.NET Foundation](https://dotnetfoundation.org/) - Independent. Innovative. And always open source.
