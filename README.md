@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
+Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
 > Check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
@@ -10,6 +10,19 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [.NET 5](http://bit.ly/31oL6IL) - .NET 5 will be the next biiiiig release in the .NET family.
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
+
+-----
+## YouTube and Videos :tv:
+### YouTube 
+* [Microsoft Visual Studio](https://www.youtube.com/user/VisualStudio)
+* [Microsoft Developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
+* [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)
+* [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
+* [Azure DevOps](https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA)
+* [Microsoft Ignite](https://www.youtube.com/channel/UCrhJmfAGQ5K81XQ8_od1iTg)
+
+### Videos
+* [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 
 
 -----
@@ -40,17 +53,11 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [C# Walkthroughs](https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs) - Walkthroughs give step-by-step instructions for common scenarios, which makes them a good place to start learning about the product or a particular feature area.
 
 -----
-## YouTube and Videos :tv:
-### YouTube 
-* [Microsoft Visual Studio](https://www.youtube.com/user/VisualStudio)
-* [Microsoft Developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
-* [Xamarin Developers](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)
-* [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
-* [Azure DevOps](https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA)
-* [Microsoft Ignite](https://www.youtube.com/channel/UCrhJmfAGQ5K81XQ8_od1iTg)
+## Naming Conventions
+* [C# Coding Standards and Naming Conventions](https://www.dofactory.com/reference/csharp-coding-standards) - dofactory.com
+* [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Microsoft
 
-### Videos
-* [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
+
 
 -----
 ## Visual Studio
@@ -70,9 +77,9 @@ Visual Studio | .NET Framework | MVC | Console/WinForms/WPF/UWP | Blazor | Xamar
 * [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
 
 -----
-## Naming Conventions
-* [C# Coding Standards and Naming Conventions](https://www.dofactory.com/reference/csharp-coding-standards) - dofactory.com
-* [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Microsoft
+## EF (Entity Framework)
+* [Entity Framework Core Database First Example (Video)](https://www.youtube.com/watch?v=iX-fb1ddfjM)
+
 
 -----
 ## UWP
