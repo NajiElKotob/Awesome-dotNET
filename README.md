@@ -82,7 +82,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 
 -----
 ## EF (Entity Framework)
-* [Entity Framework Core Database First Example (Video)](https://www.youtube.com/watch?v=iX-fb1ddfjM)
+* [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
+
 
 
 -----
@@ -125,7 +126,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 
 ### MVC 5
-* [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references by Naji El Kotob
+* [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
 
 ### Microservice
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
