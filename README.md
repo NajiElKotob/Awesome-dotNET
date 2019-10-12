@@ -70,6 +70,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 
 -----
 ## Design Patterns
+* [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.0) - Microsoft
 * [C# Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
   * [MVVM](https://scottlilly.com/c-design-patterns-mvvm-model-view-viewmodel/) - scottlilly.com
 * [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
