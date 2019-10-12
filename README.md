@@ -30,8 +30,11 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 ### C#
 * [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - References about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+* What's New
+  * [What's new in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
+  * [What's new in C# 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
+  * [What's new in C# 6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)  
 > [Other .NET Languages](https://en.wikipedia.org/wiki/List_of_CLI_languages) - Wikipedia
-
 #### Online C# Compiler and Tools
 * Compiler
   * [Online GDB](https://www.onlinegdb.com/online_csharp_compiler)
@@ -104,7 +107,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 -----
 ## Xamarin
 * [Xamarin Docs](https://docs.microsoft.com/en-us/xamarin/) - Microsoft 
-
+* [A Glimpse Into the Future of Xamarin](https://channel9.msdn.com/Events/Xamarin/Xamarin-Developer-Summit-2019/A-Glimpse-Into-the-Future-of-Xamarin0 - Channel 9
 -----
 ## Web
 
@@ -117,9 +120,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Blazor Tips and Tricks (Video)](https://www.youtube.com/watch?v=KlPaM0yWWbQ)
 
 ### MVC Core 3.x
-* [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.0) - 
-* [What's New in ASP.NET Core 3 Preview 6](https://wildermuth.com/2019/06/16/What-s-New-in-ASP-NET-Core-3-Preview-6) - Shawn Wildermuth
-* [Create a web app with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.0)
+* [Awesome ASP.NET Core MVC](https://github.com/NajiElKotob/Awesome-ASP.NET-Core-MVC) - Tutorials, References and Resources
 
 
 ### MVC 5
