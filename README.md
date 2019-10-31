@@ -10,7 +10,9 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [.NET 5](http://bit.ly/31oL6IL) - .NET 5 will be the next biiiiig release in the .NET family.
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
-
+* .NET Standards
+  * [.NET Standard versions](https://dotnet.microsoft.com/platform/dotnet-standard#versions)
+  
 -----
 ## YouTube and Videos :tv:
 ### YouTube 
@@ -20,9 +22,6 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 * [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
 * [Azure DevOps](https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA)
 * [Microsoft Ignite](https://www.youtube.com/channel/UCrhJmfAGQ5K81XQ8_od1iTg)
-
-### Videos
-* [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 
 
 -----
@@ -64,7 +63,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 
 -----
 ## Visual Studio
-
+* [Write beautiful code, faster](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2019-Launch-Event/Write-beautiful-code-faster?term=Kendra%20Havens%20&lang-en=true) - Kendra Havens
 * Tips and Tricks
   * [Visual Studio's Safe Mode switch](https://www.youtube.com/watch?v=nPZDYsH2uKM)
 
@@ -85,7 +84,6 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 * [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
 
 
-
 -----
 ## UWP
 * [Rapidly Construct LOB Applications with UWP and Visual Studio 2017](https://www.youtube.com/watch?v=k6ZtQITXLys) - Let's build an LOB focused, data-dense application highlighting the best of Windows 10 and Visual Studio 2017.
@@ -100,7 +98,10 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 
 -----
 ## Windows Forms
-
+* [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
+* Special Topics
+  * [How to: Port a Windows Forms desktop app to .NET Core](https://docs.microsoft.com/en-us/dotnet/core/porting/winforms)
+  
 -----
 ## Console
 * [Console Class](https://docs.microsoft.com/en-us/dotnet/api/system.console)
