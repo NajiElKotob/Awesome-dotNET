@@ -98,9 +98,10 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 
 -----
 ## Windows Forms
-* [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
+* Widows Forms
+  * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
 * .NET Core Windows Forms 
-* [Introducing .NET Core Windows Forms Designer Preview 1](https://devblogs.microsoft.com/dotnet/introducing-net-core-windows-forms-designer-preview-1/)
+  * [Introducing .NET Core Windows Forms Designer Preview 1](https://devblogs.microsoft.com/dotnet/introducing-net-core-windows-forms-designer-preview-1/)
 * Special Topics
   * [How to: Port a Windows Forms desktop app to .NET Core](https://docs.microsoft.com/en-us/dotnet/core/porting/winforms)
   
