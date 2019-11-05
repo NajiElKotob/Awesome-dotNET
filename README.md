@@ -69,8 +69,12 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 
 -----
 ## Design Patterns
-* [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.0) - Microsoft
-* [C# Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
+* Dependency Injection
+  * [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.0) - Microsoft Docs
+  * [Dependency Injection](https://www.youtube.com/watch?v=IKD2-MAkXyQ&t=68s) - Anthony Ferrara
+  * [What is Dependency Injection C#?](https://stackify.com/dependency-injection-c-sharp/)
+  * [Dependency Inversion Principle](https://www.oodesign.com/dependency-inversion-principle.html) :star:
+* [C#Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
   * [MVVM](https://scottlilly.com/c-design-patterns-mvvm-model-view-viewmodel/) - scottlilly.com
 * [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
 * [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
