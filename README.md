@@ -48,6 +48,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 #### Tutorials
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
+* [w3resource](https://www.w3resource.com/csharp-exercises/) - C# Sharp Programming Exercises, Practice, Solution
 * Games
   * [Create a matching game](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-3-create-a-matching-game?view=vs-2019)
   * [Timed math quiz](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-2-create-a-timed-math-quiz?view=vs-2019)
