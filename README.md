@@ -149,6 +149,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 -----
 ## Machine Learning
+* [Build A Movie Recommender Using C# and ML.NET Machine Learning](https://medium.com/machinelearningadvantage/build-a-movie-recommender-using-c-and-ml-net-machine-learning-d6175ae13bc9) - Mark Farragher
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
 * [ML.NET Tutorial](https://dotnet.microsoft.com/learn/machinelearning-ai/ml-dotnet-get-started-tutorial/intro)
 * [ML.NET Model Builder Guide](https://github.com/dotnet/machinelearning-samples/tree/master/modelbuilder)
