@@ -79,6 +79,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
   * [MVVM](https://scottlilly.com/c-design-patterns-mvvm-model-view-viewmodel/) - scottlilly.com
 * [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
 * [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
+* [Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk) - Mosh Hamedani
 
 -----
 ## Fluent Design
