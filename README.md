@@ -11,7 +11,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 * [.NET 5](http://bit.ly/31oL6IL) - .NET 5 will be the next biiiiig release in the .NET family.
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
 * .NET Standards
-  * [.NET Standard versions](https://dotnet.microsoft.com/platform/dotnet-standard#versions)
+  * [.NET Standard versions (Interactive Table)](https://dotnet.microsoft.com/platform/dotnet-standard#versions)
+  * [.NET implementation support](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
   
 -----
 ## YouTube and Videos :tv:
