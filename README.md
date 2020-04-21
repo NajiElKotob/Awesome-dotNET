@@ -102,6 +102,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 -----
 ## XAML
 * [Introducing XAML Studio (Video)](https://www.youtube.com/watch?v=fWoIB1XRStg) - Microsoft Developer
+* [XAML tools documentation](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/) - Microsoft Docs
 
 ## JSON
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from json
