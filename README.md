@@ -91,7 +91,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
 ## XAML
 * [Introducing XAML Studio (Video)](https://www.youtube.com/watch?v=fWoIB1XRStg) - Microsoft Developer
 * [XAML tools documentation](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/) - Microsoft Docs
-
+* [XAML Controls Gallery](https://docs.microsoft.com/en-us/samples/microsoft/xaml-controls-gallery/xaml-controls-gallery/) - Shows all of the XAML controls in an interactive format.
 
 -----
 ## UWP
