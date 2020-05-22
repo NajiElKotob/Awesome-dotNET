@@ -107,6 +107,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
 
 ## Uno Platform
 * [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
+* [Uno Platform Part 1](https://www.youtube.com/watch?v=fyo2BI4rn0g) - Martin Zikmund
+* [Uno Platform Part 2](https://www.youtube.com/watch?v=QQJcMsmgXuI) - Martin Zikmund
 
 -----
 ## EF (Entity Framework)
