@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | Xamarin | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
+Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Blazor | Xamarin | Uno | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
 > Check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
@@ -86,9 +86,11 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
 ## Fluent Design
 * [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
 
+
 -----
-## EF (Entity Framework)
-* [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
+## XAML
+* [Introducing XAML Studio (Video)](https://www.youtube.com/watch?v=fWoIB1XRStg) - Microsoft Developer
+* [XAML tools documentation](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/) - Microsoft Docs
 
 
 -----
@@ -99,11 +101,17 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP | Blazor | 
   * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
 * Tutorials
   * [Create a user interface](https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-ui)
-  
+ 
+## WinUI
+* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - The modern native UI platform of Windows.
+
+## Uno Platform
+* [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
+
 -----
-## XAML
-* [Introducing XAML Studio (Video)](https://www.youtube.com/watch?v=fWoIB1XRStg) - Microsoft Developer
-* [XAML tools documentation](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/) - Microsoft Docs
+## EF (Entity Framework)
+* [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
+
 
 ## JSON
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from json
