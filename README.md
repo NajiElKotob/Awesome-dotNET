@@ -101,7 +101,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
   * [Presentations and demos for UWP Developer DevCamps](https://github.com/Windows-Readiness/WinDevCamp)
 * Tutorials
   * [Create a user interface](https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-ui)
- 
+  * [Code Samples Browser](https://docs.microsoft.com/en-us/samples/browse/?languages=csharp%2Cxaml&products=windows-uwp) - Microsoft.com
+  
 ## WinUI
 * [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - The modern native UI platform of Windows.
 
