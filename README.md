@@ -69,6 +69,10 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
 * Tips and Tricks
   * [Visual Studio's Safe Mode switch](https://www.youtube.com/watch?v=nPZDYsH2uKM)
 
+## Visual Studio Code
+* [Intro to VSCode for C# Developers - From Installation to Debugging](https://www.youtube.com/watch?v=r5dtl9Uq9V0) - 
+IAmTimCorey (October 2019)
+
 -----
 ## Design Patterns
 * Dependency Injection
