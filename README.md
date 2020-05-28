@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Blazor | Xamarin | Uno | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
+Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Blazor | Xamarin | Uno | MAUI | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
 > Check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
@@ -117,6 +117,9 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 * [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
 * [Uno Platform Part 1](https://www.youtube.com/watch?v=fyo2BI4rn0g) - Martin Zikmund
 * [Uno Platform Part 2](https://www.youtube.com/watch?v=QQJcMsmgXuI) - Martin Zikmund
+
+## MAUI
+* [Introducing .NET Multi-platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - Scott (May 2020)
 
 -----
 ## EF (Entity Framework)
