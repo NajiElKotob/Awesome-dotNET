@@ -2,8 +2,9 @@
 
 Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Blazor | Xamarin | Uno | MAUI | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
-> Check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
-
+`
+For more info about .NET please check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
+`
 
 ## Official Resources
 * [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)
@@ -112,6 +113,10 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
   
 ## WinUI
 * [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - The modern native UI platform of Windows.
+   * Setup your dev environment (31 May 2020)
+    1. [Visual Studio](https://visualstudio.microsoft.com/vs/preview)
+    1. Workloads: .NET Desktop Development and UWP
+    1. [WinUI 3.0 Templates](https://aka.ms/winui3/previewdownload)
 
 ## Uno Platform
 * [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
