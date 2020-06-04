@@ -2,9 +2,8 @@
 
 Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Blazor | Xamarin | Uno | MAUI | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
-`
-For more info about .NET please check my .NET Facebook page [.NET Heroes](https://www.facebook.com/dotnetheroes)
-`
+`For more info about .NET please check my .NET Facebook page` [.NET Heroes](https://www.facebook.com/dotnetheroes)
+
 
 ## Official Resources
 * [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)
