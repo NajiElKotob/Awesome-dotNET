@@ -14,7 +14,8 @@ For more info about .NET please check my .NET Facebook page [.NET Heroes](https:
 * .NET Standards
   * [.NET Standard versions (Interactive Table)](https://dotnet.microsoft.com/platform/dotnet-standard#versions)
   * [.NET implementation support](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
-  
+* [Browse code samples](https://docs.microsoft.com/en-us/samples/browse/) - Explore our samples and discover the things you can build.
+
 -----
 ## YouTube and Videos :tv:
 ### YouTube 
