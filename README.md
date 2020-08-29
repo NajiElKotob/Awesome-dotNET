@@ -45,6 +45,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
   * [Sharplab](https://sharplab.io) 
 * UML
   * [Draw.io](https://draw.io) 
+* Git
+  * [How to Connect a Visual Studio Project to GitHub](https://www.c-sharpcorner.com/article/how-to-connect-visual-studio-project-to-github/)
   
 
 #### Tutorials
