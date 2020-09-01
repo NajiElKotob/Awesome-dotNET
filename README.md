@@ -58,6 +58,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
   * [Timed math quiz](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-2-create-a-timed-math-quiz?view=vs-2019)
   * [Picture viewer](https://docs.microsoft.com/en-us/visualstudio/ide/tutorial-1-create-a-picture-viewer?view=vs-2019)
 * [C# Walkthroughs](https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs) - Walkthroughs give step-by-step instructions for common scenarios, which makes them a good place to start learning about the product or a particular feature area.
+* [HOW TO PROGRAM - Getting Started (YouTube)](https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR) - Let's learn how to program in C#.
 
 -----
 ## Naming Conventions
