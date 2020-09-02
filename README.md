@@ -162,6 +162,7 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 
 ### Razor
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
+* [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 
 ### Blazor
 Blazor is a framework for building interactive client-side web UI using C# instead of JavaScript.
