@@ -32,6 +32,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
 * [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - References about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * What's New
+  * [What's new in C# 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
   * [What's new in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
   * [What's new in C# 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
   * [What's new in C# 6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)  
