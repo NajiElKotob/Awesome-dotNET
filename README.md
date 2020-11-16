@@ -159,9 +159,12 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 
 ### Blazor :fire:
 Blazor is a framework for building interactive client-side web UI using C# instead of JavaScript.
-* [Build your first Blazor app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
 * [Blazor Tips and Tricks (Video)](https://www.youtube.com/watch?v=KlPaM0yWWbQ)
+
+#### Tutorials
+* [Build your first Blazor app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
+* [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/)
 
 
 ### Razor
