@@ -157,28 +157,29 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 -----
 ## Web
 
-### Razor
-* [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
-* [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
-
-### Blazor
+### Blazor :fire:
 Blazor is a framework for building interactive client-side web UI using C# instead of JavaScript.
 * [Build your first Blazor app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
 * [Blazor Tips and Tricks (Video)](https://www.youtube.com/watch?v=KlPaM0yWWbQ)
 
-### MVC Core 3.x
-* [Awesome ASP.NET Core MVC](https://github.com/NajiElKotob/Awesome-ASP.NET-Core-MVC) - Tutorials, References and Resources
 
+### Razor
+* [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
+* [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 
-### MVC 5
-* [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
 
 ### Microservice
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
 
 ### DevOps
 * [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Plan smarter, collaborate better and ship faster with a set of modern dev services.
+
+### MVC Core 3.x (Goodbye)
+* [Awesome ASP.NET Core MVC](https://github.com/NajiElKotob/Awesome-ASP.NET-Core-MVC) - Tutorials, References and Resources
+
+### MVC 5 (Goodbye)
+* [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
 
 -----
 ## HoloLens
@@ -215,6 +216,6 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 -----
 ## Communities
 * [.NET Heroes](https://www.facebook.com/dotnetheroes)
-* [.NET Conf](https://www.dotnetconf.net/) - 
+* [.NET Conf](https://www.dotnetconf.net/)
 * [Call for Code](https://callforcode.org) 
 * [.NET Foundation](https://dotnetfoundation.org/) - Independent. Innovative. And always open source.
