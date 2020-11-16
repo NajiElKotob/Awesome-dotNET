@@ -165,7 +165,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 #### Tutorials
 * [Build your first Blazor app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
 * [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/)
-
+* [Blazor University](https://blazor-university.com/)
 
 ### Razor
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
