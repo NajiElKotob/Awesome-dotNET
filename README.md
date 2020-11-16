@@ -51,6 +51,7 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
   
 
 #### Tutorials
+* [Intro to C#](https://github.com/NajiElKotob/Intro-to-CSharp/) - Based on 70-483
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
 * [w3resource](https://www.w3resource.com/csharp-exercises/) - C# Sharp Programming Exercises, Practice, Solution
@@ -133,11 +134,6 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 -----
 ## EF (Entity Framework)
 * [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
-
-
-## JSON
-* [json2csharp](http://json2csharp.com/) - Generate c# classes from json
-
 
 -----
 ## Windows Forms
