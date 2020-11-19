@@ -33,6 +33,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * What's New
   * [What's new in C# 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
+    * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 (v16.8)](https://www.youtube.com/watch?v=zjVgQNfAEOs) - 
+IAmTimCorey
   * [What's new in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
   * [What's new in C# 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
   * [What's new in C# 6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)  
