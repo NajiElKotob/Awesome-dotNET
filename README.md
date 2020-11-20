@@ -94,6 +94,9 @@ IAmTimCorey (October 2019)
 * [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
 * [Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk) - Mosh Hamedani
 
+## .NET application architecture
+* [.NET application architecture documentation](https://docs.microsoft.com/en-us/dotnet/architecture/)
+
 -----
 ## Fluent Design
 * [Fluent Design System: the journey to cross-platform](https://mybuild.techcommunity.microsoft.com/sessions/77014) - Microsoft is expanding Fluent to the web, across platforms, and more devices. Come learn how Microsoft is utilizing Fluent on our own products through shared principles, patterns, tools, and documentation, and how you can use these resources on your own applications.
