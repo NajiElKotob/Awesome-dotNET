@@ -97,6 +97,7 @@ IAmTimCorey (October 2019)
 ## .NET application architecture
 * [.NET application architecture documentation](https://docs.microsoft.com/en-us/dotnet/architecture/)
 * [DDD, Hexagonal, Onion, Clean, CQRS](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/comment-page-1/)
+* [What is Domain-Driven Design?](https://blog.avenuecode.com/domain-driven-design-and-onion-architecture)
 
 -----
 ## Fluent Design
