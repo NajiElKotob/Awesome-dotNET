@@ -146,7 +146,8 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 -----
 ## Windows Forms
 * Widows Forms
-  * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
+  * [Windows Forms (.NET 5](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
+  * [Windows Forms (.NET Framework 4.x)](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
 * .NET Core Windows Forms 
   * [Windows Forms Designer for .NET Core Released](https://devblogs.microsoft.com/dotnet/windows-forms-designer-for-net-core-released/) - (May 2020)
   * [Updates to .NET Core Windows Forms designer in Visual Studio 16.5 Preview 1](https://devblogs.microsoft.com/dotnet/updates-to-net-core-windows-forms-designer-in-visual-studio-16-5-preview-1/) - (December 2019)
