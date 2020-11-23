@@ -171,7 +171,8 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 -----
 ## Xamarin
 * [Xamarin Docs](https://docs.microsoft.com/en-us/xamarin/) - Microsoft 
-* [A Glimpse Into the Future of Xamarin](https://channel9.msdn.com/Events/Xamarin/Xamarin-Developer-Summit-2019/A-Glimpse-Into-the-Future-of-Xamarin0 - Channel 9
+* [A Glimpse Into the Future of Xamarin](https://channel9.msdn.com/Events/Xamarin/Xamarin-Developer-Summit-2019/A-Glimpse-Into-the-Future-of-Xamarin) - Channel 9
+
 -----
 ## Web
 
