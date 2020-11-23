@@ -39,19 +39,26 @@ IAmTimCorey
   * [What's new in C# 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
   * [What's new in C# 6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)  
 > [Other .NET Languages](https://en.wikipedia.org/wiki/List_of_CLI_languages) - Wikipedia
-#### Online C# Compiler and Tools
+
+#### Online C# Compiler
 * Compiler
   * [Online GDB](https://www.onlinegdb.com/online_csharp_compiler)
   * [repl.it](https://repl.it/languages/csharp)
   * [.NET Fiddle](https://dotnetfiddle.net/) 
   * [Rextester](https://rextester.com/)
   * [Sharplab](https://sharplab.io) 
-* UML
-  * [Draw.io](https://draw.io) 
+
+
+#### Tools  
+##### VSTools
+* [The .NET Portability Analyzer](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
 * Git
   * [How to Connect a Visual Studio Project to GitHub](https://www.c-sharpcorner.com/article/how-to-connect-visual-studio-project-to-github/)
-  
 
+##### Online Tools
+* UML
+  * [Draw.io](https://draw.io) 
+  
 #### Tutorials
 * [Intro to C#](https://github.com/NajiElKotob/Intro-to-CSharp/) - Based on 70-483
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
