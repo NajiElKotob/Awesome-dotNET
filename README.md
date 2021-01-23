@@ -61,6 +61,7 @@ IAmTimCorey
   
 #### Tutorials
 * [Intro to C#](https://github.com/NajiElKotob/Intro-to-CSharp/) - Based on 70-483
+* [Try .NET](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1)
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index) - Numbers, Branches and Loops, List Colletion and Introduction to classes 
 * [w3resource](https://www.w3resource.com/csharp-exercises/) - C# Sharp Programming Exercises, Practice, Solution
