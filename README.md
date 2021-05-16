@@ -145,6 +145,7 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 * [Uno Platform Part 2](https://www.youtube.com/watch?v=QQJcMsmgXuI) - Martin Zikmund
 
 ## MAUI
+* [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
 * [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
   * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
 * [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI) - Maddy Leger (April 2021)
