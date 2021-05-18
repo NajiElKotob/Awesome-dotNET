@@ -158,6 +158,7 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
   * [Code Samples Browser](https://docs.microsoft.com/en-us/samples/browse/?languages=csharp%2Cxaml&products=windows-uwp) - Microsoft.com
 
 #### WPF
+* [Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
 
 #### Windows Forms
 * Widows Forms
