@@ -121,6 +121,10 @@ IAmTimCorey (October 2019)
 * [Introducing XAML Studio (Video)](https://www.youtube.com/watch?v=fWoIB1XRStg) - Microsoft Developer
 * [XAML tools documentation](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/) - Microsoft Docs
 * [XAML Controls Gallery](https://docs.microsoft.com/en-us/samples/microsoft/xaml-controls-gallery/xaml-controls-gallery/) - Shows all of the XAML controls in an interactive format.
+* Windows Store
+  * [XAML Controls Gallery](https://www.microsoft.com/en-us/p/xaml-controls-gallery/9msvh128x2zt?activetab=pivot:overviewtab)
+  * [XAML Studio](https://www.microsoft.com/en-us/p/xaml-studio/9ntls214tkmq?activetab=pivot:overviewtab)
+  * [Fluent XAML Theme Editor](https://www.microsoft.com/en-us/p/fluent-xaml-theme-editor/9n2xd3q8x57c?activetab=pivot:overviewtab) 
 
 -----
 ## UWP
