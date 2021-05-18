@@ -128,6 +128,7 @@ IAmTimCorey (October 2019)
 
 -----
 ## Project Reunion
+* [Project Reunion (GitHub)](https://github.com/microsoft/ProjectReunion)
 * [Get started with Project Reunion](https://docs.microsoft.com/en-us/windows/apps/project-reunion/get-started-with-project-reunion)
 
 ## UWP
