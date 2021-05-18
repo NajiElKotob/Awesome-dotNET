@@ -121,6 +121,7 @@ IAmTimCorey (October 2019)
 -----
 ## XAML
 * [XAML tools documentation](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/) - Microsoft Docs
+* [XAML overview (WPF .NET)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/)
 * [Accessing local assemblies in XAML](https://dailydotnettips.com/1377/) - dailydotnettips.com 
 * Windows Store
   * [XAML Controls Gallery](https://www.microsoft.com/en-us/p/xaml-controls-gallery/9msvh128x2zt?activetab=pivot:overviewtab)
