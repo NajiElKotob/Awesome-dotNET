@@ -140,7 +140,7 @@ IAmTimCorey (October 2019)
     1. [WinUI 3.0 Templates](https://aka.ms/winui3/previewdownload)
 
 
-## App Platform
+## App Platform [learn more](https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform#platform-comparison-uwp-wpf-and-windows-forms)
 ### Windows app platform
 #### UWP
 Tip: If you wanna start a new project, check WinUI and Uno Platform
