@@ -154,6 +154,8 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
   * [Create a user interface](https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-ui)
   * [Code Samples Browser](https://docs.microsoft.com/en-us/samples/browse/?languages=csharp%2Cxaml&products=windows-uwp) - Microsoft.com
 
+#### WPF
+
 #### Windows Forms
 * Widows Forms
   * [Windows Forms (.NET 5](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
