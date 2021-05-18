@@ -17,6 +17,8 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Pro
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [Browse code samples](https://docs.microsoft.com/en-us/samples/browse/) - Explore our samples and discover the things you can build.
+* [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+
 
 -----
 ## YouTube and Videos :tv:
