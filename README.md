@@ -132,7 +132,17 @@ IAmTimCorey (October 2019)
 * [Project Reunion :tv:](https://www.youtube.com/watch?v=PUjU8yT3D6w) - dotNET
 * [Get started with Project Reunion](https://docs.microsoft.com/en-us/windows/apps/project-reunion/get-started-with-project-reunion)
 
-## UWP
+## WinUI
+* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - The modern native UI platform of Windows.
+   * Setup your dev environment (31 May 2020)
+    1. [Visual Studio](https://visualstudio.microsoft.com/vs/preview)
+    1. Workloads: .NET Desktop Development and UWP
+    1. [WinUI 3.0 Templates](https://aka.ms/winui3/previewdownload)
+
+
+## App Platform
+### Windows app platform
+#### UWP
 Tip: If you wanna start a new project, check WinUI and Uno Platform
 
 * [Earthquake behind the UWP](https://www.dajbych.net/earthquake-behind-the-uwp) - (May 2019)
@@ -143,32 +153,8 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 * Tutorials
   * [Create a user interface](https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-ui)
   * [Code Samples Browser](https://docs.microsoft.com/en-us/samples/browse/?languages=csharp%2Cxaml&products=windows-uwp) - Microsoft.com
-  
-## WinUI
-* [WinUI](https://microsoft.github.io/microsoft-ui-xaml/) - The modern native UI platform of Windows.
-   * Setup your dev environment (31 May 2020)
-    1. [Visual Studio](https://visualstudio.microsoft.com/vs/preview)
-    1. Workloads: .NET Desktop Development and UWP
-    1. [WinUI 3.0 Templates](https://aka.ms/winui3/previewdownload)
 
-## Uno Platform
-* [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
-* [Uno Platform Part 1](https://www.youtube.com/watch?v=fyo2BI4rn0g) - Martin Zikmund
-* [Uno Platform Part 2](https://www.youtube.com/watch?v=QQJcMsmgXuI) - Martin Zikmund
-
-## MAUI
-* [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
-* [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
-  * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
-* [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI) - Maddy Leger (April 2021)
-* [Introducing .NET Multi-platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - Scott (May 2020)
-* [.NET MAUI (James Montemagno)](https://www.youtube.com/playlist?list=PLwOF5UVsZWUjN-kBumQtwAT4p9JZ6pt0c) :tv:
------
-## EF (Entity Framework)
-* [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
-
------
-## Windows Forms
+#### Windows Forms
 * Widows Forms
   * [Windows Forms (.NET 5](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
   * [Windows Forms (.NET Framework 4.x)](https://docs.microsoft.com/en-us/dotnet/framework/winforms/)
@@ -179,17 +165,38 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
   * [How to: Port a Windows Forms desktop app to .NET Core](https://docs.microsoft.com/en-us/dotnet/core/porting/winforms)
 * Data
   * [Windows Forms Data Binding](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/windows-forms-data-binding)
- 
------
-## Console
+
+#### Console
 * [Console Class](https://docs.microsoft.com/en-us/dotnet/api/system.console)
 * [Creating advanced console applications](https://medium.com/@nogravity00/net-creating-advanced-console-applications-c99d58216d36)
 
------
-## Xamarin
+#### Win32
+
+### Progressive Web Apps (PWAs)
+#### MAUI
+* [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
+* [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
+  * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
+* [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI) - Maddy Leger (April 2021)
+* [Introducing .NET Multi-platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - Scott (May 2020)
+* [.NET MAUI (James Montemagno)](https://www.youtube.com/playlist?list=PLwOF5UVsZWUjN-kBumQtwAT4p9JZ6pt0c) :tv:
+
+#### Xamarin
+Use Xamarin to build cross-platform applications for Windows 10 that can also run on iOS and Android.
 * [Xamarin Docs](https://docs.microsoft.com/en-us/xamarin/) - Microsoft 
 * [A Glimpse Into the Future of Xamarin](https://channel9.msdn.com/Events/Xamarin/Xamarin-Developer-Summit-2019/A-Glimpse-Into-the-Future-of-Xamarin) - Channel 9
 * [Is Xamarin dead?](https://foresightmobile.com/blog/2020/09/15/isxamarindead) - Dave Francis (September 2020)
+
+#### Uno Platform
+The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, Android, macOS, Linux and WebAssembly.
+* [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
+* [Uno Platform Part 1](https://www.youtube.com/watch?v=fyo2BI4rn0g) - Martin Zikmund
+* [Uno Platform Part 2](https://www.youtube.com/watch?v=QQJcMsmgXuI) - Martin Zikmund
+
+-----
+## EF (Entity Framework)
+* [Awesome Entity Framework Core](https://github.com/NajiElKotob/Awesome-EntityFrameworkCore) - Tutorials, References and Resources
+
 -----
 
 ## Web
@@ -208,18 +215,21 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 * [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 
-
-### Microservice
-* [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
-
-### DevOps
-* [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Plan smarter, collaborate better and ship faster with a set of modern dev services.
-
 ### MVC Core 3.x (Goodbye)
 * [Awesome ASP.NET Core MVC](https://github.com/NajiElKotob/Awesome-ASP.NET-Core-MVC) - Tutorials, References and Resources
 
 ### MVC 5 (Goodbye)
 * [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
+
+
+### Microservice
+* [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
+
+-----
+
+### DevOps
+* [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Plan smarter, collaborate better and ship faster with a set of modern dev services.
+
 
 -----
 ## HoloLens
@@ -252,6 +262,10 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 ## Games
 * [Unity](https://unity.com) - Start bringing your vision to life today. Unity’s real-time 3D development platform empowers you with all you need to create, operate, and monetize
 * [Godot](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
+
+
+
+
 
 -----
 ## Communities
