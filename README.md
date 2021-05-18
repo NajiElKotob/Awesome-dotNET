@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Blazor | Xamarin | Uno | MAUI | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
+Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Project Reunion | Blazor | MAUI | Xamarin | Uno | MAUI | ML.NET | NuGet | Azure | Unity | IoT | HoloLens
 
 `For more info about .NET please check my .NET Facebook page` [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
@@ -127,6 +127,9 @@ IAmTimCorey (October 2019)
   * [Fluent XAML Theme Editor](https://www.microsoft.com/en-us/p/fluent-xaml-theme-editor/9n2xd3q8x57c?activetab=pivot:overviewtab) 
 
 -----
+## Project Reunion
+* [Get started with Project Reunion](https://docs.microsoft.com/en-us/windows/apps/project-reunion/get-started-with-project-reunion)
+
 ## UWP
 Tip: If you wanna start a new project, check WinUI and Uno Platform
 
