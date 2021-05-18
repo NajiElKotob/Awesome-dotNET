@@ -6,14 +6,16 @@ Visual Studio | .NET Framework | MVC | EF | Console/WinForms/WPF/UWP/WinUI | Bla
 
 
 ## Official Resources
-* [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)
-* [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0)
 * [.NET 5](http://bit.ly/31oL6IL) - .NET 5 will be the next biiiiig release in the .NET family.
-* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
 * .NET Standards
   * [.NET Standard versions (Interactive Table)](https://dotnet.microsoft.com/platform/dotnet-standard#versions)
   * [.NET implementation support](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+* [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)
+
+## Learning
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
+* [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [Browse code samples](https://docs.microsoft.com/en-us/samples/browse/) - Explore our samples and discover the things you can build.
 
 -----
