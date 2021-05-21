@@ -196,6 +196,9 @@ Use Xamarin to build cross-platform applications for Windows 10 that can also ru
 * [A Glimpse Into the Future of Xamarin](https://channel9.msdn.com/Events/Xamarin/Xamarin-Developer-Summit-2019/A-Glimpse-Into-the-Future-of-Xamarin) - Channel 9
 * [Is Xamarin dead?](https://foresightmobile.com/blog/2020/09/15/isxamarindead) - Dave Francis (September 2020)
 * [eXtensible Application Markup Language (XAML)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/)
+* Videos
+  * [Building Beautiful Apps with Xamarin.Forms](https://www.youtube.com/watch?v=z4LiPa8ixyQ)
+
 
 #### Uno Platform
 The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, Android, macOS, Linux and WebAssembly.
