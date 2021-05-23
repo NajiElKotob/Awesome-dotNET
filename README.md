@@ -196,7 +196,7 @@ Use Xamarin to build cross-platform applications for Windows 10 that can also ru
 * [A Glimpse Into the Future of Xamarin](https://channel9.msdn.com/Events/Xamarin/Xamarin-Developer-Summit-2019/A-Glimpse-Into-the-Future-of-Xamarin) - Channel 9
 * [Is Xamarin dead?](https://foresightmobile.com/blog/2020/09/15/isxamarindead) - Dave Francis (September 2020)
 * [eXtensible Application Markup Language (XAML)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/)
-* [Emulation vs. Simulation](https://www.perfecto.io/blog/emulation-vs-simulation)
+* [Testing on Emulators vs Simulators vs Real Devices](https://www.browserstack.com/guide/testing-on-emulators-simulators-real-devices-comparison)
 * Videos
   * [Choosing the best mobile app framework](https://www.youtube.com/watch?v=4m7msadL5iA) [[learn more](https://codetraveler.io/bestmobileframework/)] - Brandon Minnick (September 2019)
   * [Building Beautiful Apps with Xamarin.Forms](https://www.youtube.com/watch?v=z4LiPa8ixyQ)
