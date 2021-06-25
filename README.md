@@ -200,6 +200,7 @@ Use Xamarin to build cross-platform applications for Windows 10 that can also ru
 * Videos
   * [Choosing the best mobile app framework](https://www.youtube.com/watch?v=4m7msadL5iA) [[learn more](https://codetraveler.io/bestmobileframework/)] - Brandon Minnick (September 2019)
   * [Building Beautiful Apps with Xamarin.Forms](https://www.youtube.com/watch?v=z4LiPa8ixyQ)
+  * [Xamarin 101](https://www.youtube.com/playlist?list=PLwOF5UVsZWUiHY1CkRVjYJ6dm0iCvAlfw) 🌟 - James Montemagno
 * [LiveXAML for Xamarin Forms](http://www.livexaml.com/)
 
 #### Uno Platform
