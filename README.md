@@ -181,7 +181,9 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 
 #### Win32
 
-### Progressive Web Apps (PWAs)
+-----
+
+### Progressive Web Apps (PWAs) 📱
 #### MAUI
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
 * [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
@@ -198,9 +200,12 @@ Use Xamarin to build cross-platform applications for Windows 10 that can also ru
 * [eXtensible Application Markup Language (XAML)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/)
 * [Testing on Emulators vs Simulators vs Real Devices](https://www.browserstack.com/guide/testing-on-emulators-simulators-real-devices-comparison)
 * Videos
-  * [Choosing the best mobile app framework](https://www.youtube.com/watch?v=4m7msadL5iA) [[learn more](https://codetraveler.io/bestmobileframework/)] - Brandon Minnick (September 2019)
-  * [Building Beautiful Apps with Xamarin.Forms](https://www.youtube.com/watch?v=z4LiPa8ixyQ)
-  * [Xamarin 101](https://www.youtube.com/playlist?list=PLwOF5UVsZWUiHY1CkRVjYJ6dm0iCvAlfw) 🌟 - James Montemagno
+  - [Choosing the best mobile app framework](https://www.youtube.com/watch?v=4m7msadL5iA) [[learn more](https://codetraveler.io/bestmobileframework/)] - Brandon Minnick (September 2019)
+  - [Building Beautiful Apps with Xamarin.Forms](https://www.youtube.com/watch?v=z4LiPa8ixyQ)
+  - [Xamarin 101](https://www.youtube.com/playlist?list=PLwOF5UVsZWUiHY1CkRVjYJ6dm0iCvAlfw) 🌟 - James Montemagno
+* Samples
+  - [Xamarin Forms samples](https://github.com/xamarin/xamarin-forms-samples)
+  - [Browse Code samples](https://docs.microsoft.com/en-us/samples/browse/?term=Xamarin.Forms&terms=Xamarin.Forms)
 * [LiveXAML for Xamarin Forms](http://www.livexaml.com/)
 
 #### Uno Platform
