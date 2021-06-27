@@ -183,7 +183,9 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 
 -----
 
-### Progressive Web Apps (PWAs) 📱
+
+
+### Cross-Platform Native Apps 📱
 #### MAUI
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
 * [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
@@ -213,6 +215,22 @@ The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, And
 * [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
 * [Uno Platform Part 1](https://www.youtube.com/watch?v=fyo2BI4rn0g) - Martin Zikmund
 * [Uno Platform Part 2](https://www.youtube.com/watch?v=QQJcMsmgXuI) - Martin Zikmund
+
+#### Flutter
+#### React Native
+#### Kotlin Native
+
+### Native Apps
+#### Google/Android/Java/Android Studio
+#### Apple/iOS/Swift/Xcode
+#### Microsoft/Windows Phone/C#/Visual Studio
+
+### Progressive Web Apps (PWAs)
+#### Blazor
+#### AngularJS
+#### React
+#### NativeScript
+#### Ionic
 
 -----
 ## EF (Entity Framework)
