@@ -221,8 +221,8 @@ The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, And
 #### Kotlin Native
 
 ### Native Apps
-#### Google/Android/Java/Android Studio
-#### Apple/iOS/Swift/Xcode
+#### Google/Android/Java, Kotlin/Android Studio
+#### Apple/iOS/Swift, Objective-C/Xcode
 #### Microsoft/Windows Phone/C#/Visual Studio
 
 ### Progressive Web Apps (PWAs)
