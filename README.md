@@ -210,6 +210,7 @@ Use Xamarin to build cross-platform applications for Windows 10 that can also ru
   - [Browse Code samples](https://docs.microsoft.com/en-us/samples/browse/?term=Xamarin.Forms&terms=Xamarin.Forms)
 * Plugins
   - [Xamarin.Essentials](https://github.com/xamarin/essentials)
+    - [Xamarin.Essentials Docs](https://docs.microsoft.com/en-us/xamarin/essentials/?WT.mc_id=docs-dotnet-learn) 
   - [Media Plugin](https://github.com/jamesmontemagno/MediaPlugin) - James Montemagno
 * [LiveXAML for Xamarin Forms](http://www.livexaml.com/)
 
