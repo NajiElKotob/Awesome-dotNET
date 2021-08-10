@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/WinForms/WPF/UWP](#windows-app-platform) | WinUI/Project Reunion | Blazor | [Xamarin](#xamarin) | Uno | MAUI | [ML.NET](#machine-learning) | NuGet | Azure | Unity | IoT | [HoloLens](#hololens)
+Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/WinForms/WPF/UWP](#windows-app-platform) | WinUI/Project Reunion | [Blazor](#balzor-fire) | [Xamarin](#xamarin) | Uno | MAUI | [ML.NET](#machine-learning) | NuGet | Azure | Unity | IoT | [HoloLens](#hololens)
 
 `For more info about .NET please check my .NET Facebook page` [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
@@ -230,7 +230,7 @@ The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, And
 #### Microsoft/Windows Phone/C#/Visual Studio
 
 ### Progressive Web Apps (PWAs)
-#### Blazor
+#### [Blazor](#blazor-fire)
 #### AngularJS
 #### React
 #### NativeScript
@@ -247,6 +247,7 @@ The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, And
 ### Blazor :fire:
 Blazor is a framework for building interactive client-side web UI using C# instead of JavaScript.
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
+* [Blazor Tutorial](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
 * [Blazor Tips and Tricks (Video)](https://www.youtube.com/watch?v=KlPaM0yWWbQ)
 
 #### Tutorials
