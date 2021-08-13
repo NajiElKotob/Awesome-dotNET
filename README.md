@@ -258,6 +258,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 #### Blazor components
 * [MudBlazor](https://mudblazor.com/) - For faster and easier web development
 * [MatBlazor](https://www.matblazor.com/) - Material Design components for Blazor 
+* [Radzen Blazor](https://blazor.radzen.com/)
 
 #### Articles
 * [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
