@@ -255,10 +255,11 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/)
 * [Blazor University](https://blazor-university.com/)
 
+#### Blazor components
+* [MudBlazor](https://mudblazor.com/) - For faster and easier web development
 
 #### Articles
 * [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
-
 
 
 ### Razor
