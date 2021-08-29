@@ -270,17 +270,18 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 * [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 
+### Microservice
+* [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
+
+
 ### MVC Core 3.x (Goodbye)
 * [Awesome ASP.NET Core MVC](https://github.com/NajiElKotob/Awesome-ASP.NET-Core-MVC) - Tutorials, References and Resources
 
 ### MVC 5 (Goodbye)
 * [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
-
-
-### Microservice
-* [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
-
 -----
+
+
 
 ### DevOps
 * [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Plan smarter, collaborate better and ship faster with a set of modern dev services.
