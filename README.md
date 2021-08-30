@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/WinForms/WPF/UWP](#windows-app-platform) | WinUI/Project Reunion | [Blazor](#blazor-fire) | [Xamarin](#xamarin) | Uno | MAUI | [ML.NET](#machine-learning) | NuGet | Azure | Unity | IoT | [HoloLens](#hololens)
+Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/WinForms/WPF/UWP](#windows-app-platform) | WinUI/Project Reunion | [Blazor](#blazor-fire) | [Xamarin](#xamarin) | Razor | Uno | MAUI | [ML.NET](#machine-learning) | NuGet | Azure | Unity | IoT | [HoloLens](#hololens)
 
 `For more info about .NET please check my .NET Facebook page` [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
@@ -269,6 +269,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 ### Razor
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 * [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
+* [ASP.NET Community Standup - Visual Studio 2022 Razor Editor :tv:](https://www.youtube.com/watch?v=Zw11P2z_ptc) - dotNET
 
 ### Microservice
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
