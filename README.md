@@ -93,6 +93,7 @@ IAmTimCorey
 ## Visual Studio Code
 * [Intro to VSCode for C# Developers - From Installation to Debugging](https://www.youtube.com/watch?v=r5dtl9Uq9V0) - 
 IAmTimCorey (October 2019)
+* [VS Code Extensions you absolutely need in 2021](https://www.youtube.com/watch?v=qWNj3tfVjWI) - Adrian Twarog
 
 -----
 ## Design Patterns
