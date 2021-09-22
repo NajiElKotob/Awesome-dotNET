@@ -190,9 +190,11 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 #### MAUI
 Multi-Platform App User Interface
 
-##### Roadmap
+##### Roadmap and FAQ
 * [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
   * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
+* [.NET MAUI FAQ](https://github.com/dotnet/maui/wiki/FAQs)
+
 
 ##### Installation
 * [.NET MAUI Installation](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)
