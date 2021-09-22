@@ -188,17 +188,22 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 
 ### Cross-Platform Native Apps 📱
 #### MAUI
+Multi-Platform App User Interface
+
+##### Roadmap
+* [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
+  * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
 
 ##### Installation
 * [.NET MAUI Installation](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)
+  * [.NET MAUI Preview 8 Installation](https://www.youtube.com/watch?v=Q0qLiBmbOTI&t=990s) - James Montemagno
 
 ##### Articles
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
-* [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
-  * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
 * [Introducing .NET Multi-platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - Scott (May 2020)
 
 ##### Videos
+* [What is .NET MAUI?](https://www.youtube.com/watch?v=2Mo3HKBIM7I) - 
 * [.NET MAUI (James Montemagno)](https://www.youtube.com/playlist?list=PLwOF5UVsZWUjN-kBumQtwAT4p9JZ6pt0c) :tv:
 * [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI) - Maddy Leger (April 2021)
 
