@@ -189,6 +189,9 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 ### Cross-Platform Native Apps 📱
 #### MAUI
 
+##### Installation
+* [.NET MAUI Installation](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)
+
 ##### Articles
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
 * [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) :star:
