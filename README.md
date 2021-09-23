@@ -104,6 +104,7 @@ IAmTimCorey (October 2019)
   * [Dependency Inversion Principle](https://www.oodesign.com/dependency-inversion-principle.html) :star:
 * [C#Design Patterns](http://scottlilly.com/c-design-patterns/) - Scott Lilly
   * [MVVM](https://scottlilly.com/c-design-patterns-mvvm-model-view-viewmodel/) - scottlilly.com
+  * [Understanding MVVM Design Pattern](https://www.youtube.com/watch?v=5qqTAAY7W_Y) - azamsharp
 * [Design Patterns In .NET](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) - C# Corner
 * [.NET Design Patterns](https://www.dofactory.com/net/design-patterns) - dofactory
 * [Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk) - Mosh Hamedani
