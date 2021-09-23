@@ -144,7 +144,7 @@ IAmTimCorey (October 2019)
     1. [Visual Studio](https://visualstudio.microsoft.com/vs/preview)
     1. Workloads: .NET Desktop Development and UWP
     1. [WinUI 3.0 Templates](https://aka.ms/winui3/previewdownload)
-
+* [WinUI 3.0 - Building Modern Desktop Apps with .NET and C# :tv:](https://www.youtube.com/watch?v=8NdJaztrNk8) - dotNETZurich
 
 ## App Platform [learn more](https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform#platform-comparison-uwp-wpf-and-windows-forms)
 ### Windows app platform
