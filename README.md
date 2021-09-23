@@ -202,6 +202,7 @@ Multi-Platform App User Interface
   * [.NET MAUI Preview 8 Installation](https://www.youtube.com/watch?v=Q0qLiBmbOTI&t=990s) - James Montemagno
 
 ##### Articles
+* [Getting started with Microsoft .NET MAUI](https://subscribe.packtpub.com/getting-started-with-microsoft-net-maui/) :star: - packtpub.com
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
 * [Introducing .NET Multi-platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - Scott (May 2020)
 
