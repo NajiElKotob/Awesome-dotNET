@@ -198,7 +198,6 @@ Multi-Platform App User Interface
   * [MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap) 
 * [.NET MAUI FAQ](https://github.com/dotnet/maui/wiki/FAQs)
 
-
 ##### Installation
 * [.NET MAUI Installation](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)
   * [.NET MAUI Preview 8 Installation](https://www.youtube.com/watch?v=Q0qLiBmbOTI&t=990s) - James Montemagno
@@ -215,6 +214,9 @@ Multi-Platform App User Interface
 * [What is .NET MAUI?](https://www.youtube.com/watch?v=2Mo3HKBIM7I) - Claudio Bernasconi
 * [.NET MAUI (James Montemagno)](https://www.youtube.com/playlist?list=PLwOF5UVsZWUjN-kBumQtwAT4p9JZ6pt0c) :tv:
 * [A Journey to .NET MAUI](https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI) - Maddy Leger (April 2021)
+
+##### Podcast
+* [The .NET MAUI Podcast](https://www.dotnetmauipodcast.com/) - dotnetmauipodcast.com
 
 #### Xamarin
 Use Xamarin to build cross-platform applications for Windows 10 that can also run on iOS and Android.
