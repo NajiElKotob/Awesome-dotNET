@@ -15,6 +15,7 @@ Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/Win
 
 ## Learning
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Introducing a new approach to learning
+  * [Learn C#](https://docs.microsoft.com/en-us/learn/browse/?terms=c%23&resource_type=learning%20path) 
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/)
 * [Browse code samples ⭐](https://docs.microsoft.com/en-us/samples/browse/) - Explore our samples and discover the things you can build.
 * [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
