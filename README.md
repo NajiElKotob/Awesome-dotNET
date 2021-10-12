@@ -166,6 +166,7 @@ Tip: If you wanna start a new project, check WinUI and Uno Platform
 #### WPF
 * [Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
 * [Toskers Corners :tv:](https://www.youtube.com/c/ToskersCorner) - ToskersCorners
+* [WPF Tutorials](https://wpf-tutorial.com/) - wpf-tutorial.com
 
 
 #### Windows Forms
