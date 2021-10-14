@@ -38,6 +38,7 @@ Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/Win
 * [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index) - References about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * What's New
+  * [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
   * [What's new in C# 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
     * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 (v16.8)](https://www.youtube.com/watch?v=zjVgQNfAEOs) - 
 IAmTimCorey
