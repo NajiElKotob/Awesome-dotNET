@@ -1,6 +1,6 @@
 # Awesome .NET
 
-Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/WinForms/WPF/UWP](#windows-app-platform) | WinUI/Project Reunion | [Blazor](#blazor-fire) | [Xamarin](#xamarin) | [Razor](#razor) | Uno | [MAUI](https://github.com/NajiElKotob/Awesome-DotNET/#maui) | [ML.NET](#machine-learning) | NuGet | Azure | Unity | IoT | [HoloLens](#hololens)
+Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/WinForms/WPF/UWP](#windows-app-platform) | WinUI/Project Reunion | [Blazor](#blazor-fire) | [Xamarin](#xamarin) | [Razor](#razor) | Uno | [MAUI](https://github.com/NajiElKotob/Awesome-DotNET/#maui) | [ML.NET](#machine-learning) | NuGet | [Azure](https://github.com/NajiElKotob/Awesome-Azure) ⤴ | Unity | IoT | [HoloLens](#hololens)
 
 `For more info about .NET please check my .NET Facebook page` [.NET Heroes](https://www.facebook.com/dotnetheroes)
 
