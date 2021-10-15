@@ -290,6 +290,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 #### Web app manifests
 * [Web app manifests](https://developer.mozilla.org/en-US/docs/Web/Manifest) - developer.mozilla.org
+  * [Browser compatibility](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json#browser_compatibility) 
 * [Web App Manifest Generator](http://manifest-generator.com/) - manifest-generator.com
 
 
