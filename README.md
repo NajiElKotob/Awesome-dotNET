@@ -288,14 +288,17 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [MatBlazor](https://www.matblazor.com/) - Material Design components for Blazor 
 * [Radzen Blazor](https://blazor.radzen.com/)
 
+#### Web app manifests
+* [Web app manifests](https://developer.mozilla.org/en-US/docs/Web/Manifest) - developer.mozilla.org
+* [Web App Manifest Generator](http://manifest-generator.com/) - manifest-generator.com
+
+
 #### Learning
 * [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/) - Microsoft Learn
 
 #### Articles
 * [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
 * [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/)
-* [Web App Manifest Generator](http://manifest-generator.com/) - manifest-generator.com
-
 
 #### Deploy
 * [How to deploy Blazor WebAssembly to Netlify](https://swimburger.net/blog/dotnet/how-to-deploy-blazor-webassembly-to-netlify) - swimburger.net
@@ -310,12 +313,13 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 ### Microservice
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
 
-
 ### MVC Core 3.x (Goodbye)
 * [Awesome ASP.NET Core MVC](https://github.com/NajiElKotob/Awesome-ASP.NET-Core-MVC) - Tutorials, References and Resources
 
 ### MVC 5 (Goodbye)
 * [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
+
+
 -----
 
 
