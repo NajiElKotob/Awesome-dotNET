@@ -283,6 +283,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/)
 * [Blazor University](https://blazor-university.com/)
 
+#### YouTube :tv:
+* [Blazor WebAssembly Tutorials (Curious Drive)](https://www.youtube.com/playlist?list=PL4WEkbdagHIRjjBJvK_TSfddJSvEEAtnt)
+
 #### Blazor components
 * [MudBlazor](https://mudblazor.com/) - For faster and easier web development
 * [MatBlazor](https://www.matblazor.com/) - Material Design components for Blazor 
