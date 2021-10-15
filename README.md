@@ -39,6 +39,7 @@ Visual Studio | .NET Framework | MVC | [EF](#ef-entity-framework) | [Console/Win
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * What's New
   * [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
+    * [Ask the Expert: What's New in C# 10.0 with Mads Torgersen](https://channel9.msdn.com/Shows/Ask-the-Expert/Ask-the-Expert-Whats-New-in-C-100) - channel9.msdn.com
   * [What's new in C# 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
     * [Big Changes in .NET 5, C# 9, and Visual Studio 2019 (v16.8)](https://www.youtube.com/watch?v=zjVgQNfAEOs) - 
 IAmTimCorey
