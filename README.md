@@ -294,6 +294,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 #### Articles
 * [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
 * [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/)
+* [Web App Manifest Generator](http://manifest-generator.com/) - manifest-generator.com
+
 
 #### Deploy
 * [How to deploy Blazor WebAssembly to Netlify](https://swimburger.net/blog/dotnet/how-to-deploy-blazor-webassembly-to-netlify) - swimburger.net
