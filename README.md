@@ -319,7 +319,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 ### MVC 5 (Goodbye)
 * [DevReady Academy MVC 5](https://github.com/NajiElKotob/DevReady-Academy-MVC5) - Web Application with references
 
-
+### Classic ASP (Goodbye)
+* [Active Server Pages](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524929(v=vs.90))
 -----
 
 
