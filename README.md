@@ -312,6 +312,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/)
 
 #### Deploy
+* [Building a static web app with Blazor in Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/deploy-blazor) ☁
 * [How to deploy Blazor WebAssembly to Netlify](https://swimburger.net/blog/dotnet/how-to-deploy-blazor-webassembly-to-netlify) - swimburger.net
 * [Can I Use Blazor WebAssembly](https://caniuse.com/wasm) - caniuse.com
 
