@@ -284,6 +284,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Build your first Blazor app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
 * [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/)
 * [Blazor University](https://blazor-university.com/)
+* Blazor WebView
 
 #### YouTube :tv:
 * [Blazor WebAssembly Tutorials (Curious Drive)](https://www.youtube.com/playlist?list=PL4WEkbdagHIRjjBJvK_TSfddJSvEEAtnt)
@@ -303,7 +304,6 @@ Blazor is a framework for building interactive client-side web UI using C# inste
   * [Browser compatibility](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json#browser_compatibility) 
 * [Web App Manifest Generator](http://manifest-generator.com/) - manifest-generator.com
 
-
 #### Learning
 * [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/) - Microsoft Learn
 
@@ -316,7 +316,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Can I Use Blazor WebAssembly](https://caniuse.com/wasm) - caniuse.com
 
 
-### Razor
+### Razor 🪒
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 * [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 * [ASP.NET Community Standup - Visual Studio 2022 Razor Editor :tv:](https://www.youtube.com/watch?v=Zw11P2z_ptc) - dotNET
