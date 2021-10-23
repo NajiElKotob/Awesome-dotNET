@@ -299,6 +299,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [MatBlazor](https://www.matblazor.com/) - Material Design components for Blazor 
 * [Radzen Blazor](https://blazor.radzen.com/)
 
+#### Libraries
+* [Blazored LocalStorage](https://github.com/Blazored/LocalStorage) - Chris Sainty
+
 #### Web app manifests
 * [Web app manifests](https://developer.mozilla.org/en-US/docs/Web/Manifest) - developer.mozilla.org
   * [Browser compatibility](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json#browser_compatibility) 
