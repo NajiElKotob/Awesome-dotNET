@@ -274,7 +274,7 @@ The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, And
 
 ## Web
 
-### Blazor :fire:
+### Blazor 🔥
 Blazor is a framework for building interactive client-side web UI using C# instead of JavaScript.
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Build client web apps with C#
 * [Blazor Tutorial](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
@@ -282,8 +282,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 #### Tutorials
 * [Build your first Blazor app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro)
-* [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/)
-* [Blazor University](https://blazor-university.com/)
+* [Free Blazor Training Course (DevExpress)](https://www.devexpress.com/support/training/blazor/) - devexpress.com
+* [Blazor University](https://blazor-university.com/) - blazor-university.com
+* [Pragimtech](https://www.pragimtech.com/blog/blazor/what-is-blazor/) - pragimtech.com
 * Blazor WebView
 
 #### YouTube :tv:
