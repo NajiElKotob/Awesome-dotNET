@@ -212,6 +212,12 @@ Multi-Platform App User Interface
   * Install: dotnet tool install -g redth.net.maui.check
   * Update: dotnet tool update -g redth.net.MAUI.check
   * Run: maui-check
+* dotnet
+ * dotnet new --list
+ * dotnet new maui or dotnet new maui -n MyMAUI
+ * dotnet restore
+ * dotnet build
+ * dotnet build -t:Run -f net6.0-android
 * [Microsoft Edge WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
 
