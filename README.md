@@ -208,6 +208,7 @@ Multi-Platform App User Interface
 * [.NET MAUI Installation](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)
   * [.NET MAUI Preview 8 Installation](https://www.youtube.com/watch?v=Q0qLiBmbOTI&t=990s) - James Montemagno
 * [maui-check](https://github.com/Redth/dotnet-maui-check)
+  * Check: dotnet tool list -g
   * Install: dotnet tool install -g redth.net.maui.check
   * Update: dotnet tool update -g redth.net.MAUI.check
   * Run: maui-check
