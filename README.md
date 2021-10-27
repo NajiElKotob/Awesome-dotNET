@@ -211,6 +211,9 @@ Multi-Platform App User Interface
   * Install: dotnet tool install -g redth.net.maui.check
   * Update: dotnet tool update -g redth.net.MAUI.check
   * Run: maui-check
+* [Microsoft Edge WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+
+
 ##### Articles
 * [Getting started with Microsoft .NET MAUI](https://subscribe.packtpub.com/getting-started-with-microsoft-net-maui/) :star: - packtpub.com
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
