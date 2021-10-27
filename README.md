@@ -303,6 +303,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Blazor for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUJCA3DCzKT79Oe3kdKEceX) - dotNET
 * [.NET Conf: Focus on Blazor 2020](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWlP1Qpzg7Dwzxr298ewdUQ) - dotNET
 * [Web development with Blazor](https://www.youtube.com/playlist?list=PL6n9fhu94yhXXmhl1U4_oHZS5nhaabpPN) - kudvenkat 
+* [Blazor tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P) - kudvenkat 
+
 
 #### Blogs and Articles
 * [Syncfusion](https://www.syncfusion.com/blogs/category/blazor) - syncfusion.com
