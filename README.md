@@ -264,6 +264,11 @@ Use Xamarin to build cross-platform applications for Windows 10 that can also ru
   - [Media Plugin](https://github.com/jamesmontemagno/MediaPlugin) - James Montemagno
 * [LiveXAML for Xamarin Forms](http://www.livexaml.com/)
 
+##### Videos :tv:
+* [Xamarin Guy](https://www.youtube.com/channel/UCBKLE3rLU0CJebTBJ_N4ajQ/featured)
+
+-----
+
 #### Uno Platform
 The Uno Platform enables Windows UWP-based code (C# and XAML) to run on iOS, Android, macOS, Linux and WebAssembly.
 * [Uno Platform](https://platform.uno/) - Build Single Codebase Apps for WebAssembly, iOS, Android and Windows (platform.uno)
