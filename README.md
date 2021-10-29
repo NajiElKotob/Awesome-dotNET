@@ -220,6 +220,10 @@ Multi-Platform App User Interface
   * dotnet build -t:Run -f net6.0-android
 * [Microsoft Edge WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
+##### Libraries
+* .NET MAUI Community Toolkit
+  * [Introducing the .NET MAUI Community Toolkit (Preview)](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/)
+  * [The Future of Xamarin Community Toolkit](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/)
 
 ##### Articles
 * [Getting started with Microsoft .NET MAUI](https://subscribe.packtpub.com/getting-started-with-microsoft-net-maui/) :star: - packtpub.com
