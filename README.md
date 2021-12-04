@@ -125,6 +125,9 @@ IAmTimCorey (October 2019)
   * [Common web application architectures](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
   * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - cleancoder.com | Robert C. Martin (Uncle Bob)
   * [Clean Architecture with ASP.NET Core 3.0 :tv:](https://www.youtube.com/watch?v=5OtUm1BLmG0) - Jason Taylor | NDC Sydney 2019
+  * Examples
+    - [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) 
+    - [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture)
 
 
 -----
