@@ -86,6 +86,7 @@ IAmTimCorey
 ## Naming Conventions
 * [C# Coding Standards and Naming Conventions](https://www.dofactory.com/reference/csharp-coding-standards) - dofactory.com
 * [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Microsoft
+* [Clean Code Naming Conventions](https://medium.com/@pabashani.herath/clean-code-naming-conventions-4cac223de3c6) - Pabashani Herath
 
 
 
