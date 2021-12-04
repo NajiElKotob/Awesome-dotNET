@@ -122,6 +122,7 @@ IAmTimCorey (October 2019)
 * [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith](https://www.youtube.com/watch?v=joNTQy-KXiU) - June 2020
 * Clean Architecture
   * [Common web application architectures](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
+  * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - cleancoder.com | Robert C. Martin (Uncle Bob)
 
 
 -----
