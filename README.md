@@ -122,6 +122,7 @@ IAmTimCorey (October 2019)
 * [What is Domain-Driven Design?](https://blog.avenuecode.com/domain-driven-design-and-onion-architecture)
 * [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith](https://www.youtube.com/watch?v=joNTQy-KXiU) - June 2020
 * Clean Architecture
+  * [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/comment-page-1/) :star: - herbertograca.com 
   * [Common web application architectures](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
   * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - cleancoder.com | Robert C. Martin (Uncle Bob)
   * [Clean Architecture with ASP.NET Core 3.0 :tv:](https://www.youtube.com/watch?v=5OtUm1BLmG0) - Jason Taylor | NDC Sydney 2019
