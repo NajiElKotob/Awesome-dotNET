@@ -419,6 +419,12 @@ Blazor is a framework for building interactive client-side web UI using C# inste
   * [How To Control An LED Using Raspberry Pi 3, Windows IoT Core, And Visual Studio UWP](https://www.c-sharpcorner.com/article/led-on-and-off/)
 
 -----
+
+## Crypto
+* [Ethereum for .NET Developers](https://ethereum.org/en/developers/docs/programming-languages/dot-net/) - ethereum.org
+
+
+-----
 ## Quantum Computing
 * [What is Quantum Computing?](https://docs.microsoft.com/en-us/quantum/concepts/?view=qsharp-preview)
 
