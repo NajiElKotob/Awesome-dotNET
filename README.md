@@ -125,6 +125,7 @@ IAmTimCorey (October 2019)
   * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - cleancoder.com | Robert C. Martin (Uncle Bob)
   * [Clean Architecture with ASP.NET Core 3.0 :tv:](https://www.youtube.com/watch?v=5OtUm1BLmG0) - Jason Taylor | NDC Sydney 2019
   * [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith :tv:](https://www.youtube.com/watch?v=joNTQy-KXiU) - June 2020
+  * [Clean Architecture with ASP.NET Core 6 :tv:](https://www.youtube.com/watch?v=lkmvnjypENw) - 
   * Examples
     - [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) 
     - [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture)
