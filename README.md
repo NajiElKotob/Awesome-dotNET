@@ -409,6 +409,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Introduction to Machine Learning and ML.NET - Part 1](https://www.codeproject.com/Articles/5245488/Introduction-to-Machine-Learning-and-ML-NET-Part-1) - Syed Shanu (Code Project)
 * [Easy K-Means Clustering with C# and ML.NET](https://medium.com/machinelearningadvantage/easy-k-means-clustering-with-c-and-ml-net-7b154ccd219e) - Medium
 * [Awesome ML](https://github.com/NajiElKotob/Awesome-ML) - ML Resources and References by Naji El Kotob
+* [Getting Started with ML.NET Auto ML in C# :tv:](https://www.youtube.com/watch?v=LIaMHK5wrDE)
+
 
 -----
 ## .NET for Apache Spark
