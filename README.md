@@ -367,6 +367,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [How to deploy Blazor WebAssembly to Netlify](https://swimburger.net/blog/dotnet/how-to-deploy-blazor-webassembly-to-netlify) - swimburger.net
 * [Can I Use Blazor WebAssembly](https://caniuse.com/wasm) - caniuse.com
 
+#### Hosting
+* [Azure SignalR Service](https://azure.microsoft.com/en-us/services/signalr-service/) - azure.microsoft.com
 
 ### Razor 🪒
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
