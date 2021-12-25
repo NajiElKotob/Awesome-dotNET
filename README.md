@@ -341,6 +341,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Best of Blazor](https://bestofblazor.blog/) - bestofblazor.blog
 * [How to provide your own in-app install experience](https://web.dev/customize-install/) - web.dev
 * [Awesome Blazor (Adrien Torris)](https://github.com/AdrienTorris/awesome-blazor) :star:
+* [Chris Sainty](https://chrissainty.com/) - chrissainty.com
 
 #### Blazor components
 * [MudBlazor](https://mudblazor.com/) - For faster and easier web development
