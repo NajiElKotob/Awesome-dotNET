@@ -88,7 +88,8 @@ IAmTimCorey
 * [Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Microsoft
 * [Clean Code Naming Conventions](https://medium.com/@pabashani.herath/clean-code-naming-conventions-4cac223de3c6) - Pabashani Herath
 
-
+## Obfuscation
+* [.NET Obfuscator](https://github.com/NotPrab/.NET-Obfuscator)
 
 -----
 ## Visual Studio
