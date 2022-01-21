@@ -376,6 +376,13 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 ### Razor 🪒
 * [Razor syntax reference for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor) :star:
+  * @, @@, <text>, @:, @{}, @()
+  * Conditionals: @if, else if, else, and @switch
+  * Looping @for, @foreach, @while, and @do while
+  * Compound @using
+  * Exception handling: @try, catch, finally
+  * Comments: /* */, //, <!-- -->, @* *@
+  * Razor reserved keywords: page, namespace, functions, inherits, model, section, helper
 * [Introducing Razor Pages](https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages?term=asp.net%20beginner) - Channel9 (Seth Juarez)
 * [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 * [ASP.NET Community Standup - Visual Studio 2022 Razor Editor :tv:](https://www.youtube.com/watch?v=Zw11P2z_ptc) - dotNET
