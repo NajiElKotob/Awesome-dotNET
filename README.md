@@ -387,6 +387,10 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Blazor Web Apps - Goodbye JavaScript! I'm in love with C# (YouTube)](https://www.youtube.com/watch?v=Oeh2IJw7Zig)
 * [ASP.NET Community Standup - Visual Studio 2022 Razor Editor :tv:](https://www.youtube.com/watch?v=Zw11P2z_ptc) - dotNET
 
+### WebAPI
+* [ASP.NET Web APIs](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
+* [Test web APIs with the HttpRepl](https://docs.microsoft.com/en-us/aspnet/core/web-api/http-repl/)
+ 
 ### Microservice 🔬
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
 
