@@ -336,13 +336,17 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [CRUD with Blazor WebAssembly & Web API in .NET 5](https://www.youtube.com/watch?v=14H9FsD3IVI)
 
 #### Blogs and Articles
+##### Blogs
 * [Syncfusion](https://wcfusion.com/blogs/category/blazor) - syncfusion.com
 * [Telerik](https://www.telerik.com/blogs/tag/blazor) - telerik.com
 * [Best of Blazor](https://bestofblazor.blog/) - bestofblazor.blog
 * [How to provide your own in-app install experience](https://web.dev/customize-install/) - web.dev
 * [Awesome Blazor (Adrien Torris)](https://github.com/AdrienTorris/awesome-blazor) :star:
 * [Chris Sainty](https://chrissainty.com/) - chrissainty.com
+
+##### Articles
 * [Pass Route Parameters between Blazor Pages](https://wellsb.com/csharp/aspnet/pass-route-parameters-between-blazor-pages) - wellsb.com
+* [How to Pass Arguments to Your onclick Functions in Blazor](https://www.telerik.com/blogs/how-to-pass-arguments-to-your-onclick-functions-blazor) - telerik.com
 
 #### Blazor components
 * [MudBlazor](https://mudblazor.com/) - For faster and easier web development
