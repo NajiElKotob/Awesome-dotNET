@@ -337,7 +337,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 #### Blogs and Articles
 ##### Blogs
-* [Syncfusion](https://wcfusion.com/blogs/category/blazor) - syncfusion.com
+* [Syncfusion](https://syncfusion.com/blogs/category/blazor) - syncfusion.com
 * [Telerik](https://www.telerik.com/blogs/tag/blazor) - telerik.com
 * [Best of Blazor](https://bestofblazor.blog/) - bestofblazor.blog
 * [How to provide your own in-app install experience](https://web.dev/customize-install/) - web.dev
