@@ -348,8 +348,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Pass Route Parameters between Blazor Pages](https://wellsb.com/csharp/aspnet/pass-route-parameters-between-blazor-pages) - wellsb.com
 * [How to Pass Arguments to Your onclick Functions in Blazor](https://www.telerik.com/blogs/how-to-pass-arguments-to-your-onclick-functions-blazor) - telerik.com
 * [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
-* [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/)
-
+* [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/) - devblogs.microsoft.com
+* [Blazor WASM PWA — Adding a “New Update Available” notification](https://whuysentruit.medium.com/blazor-wasm-pwa-adding-a-new-update-available-notification-d9f65c4ad13 - whuysentruit.medium.com
 
 #### Blazor components
 * [MudBlazor](https://mudblazor.com/) - For faster and easier web development
