@@ -347,6 +347,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 ##### Articles
 * [Pass Route Parameters between Blazor Pages](https://wellsb.com/csharp/aspnet/pass-route-parameters-between-blazor-pages) - wellsb.com
 * [How to Pass Arguments to Your onclick Functions in Blazor](https://www.telerik.com/blogs/how-to-pass-arguments-to-your-onclick-functions-blazor) - telerik.com
+* [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
+* [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/)
+
 
 #### Blazor components
 * [MudBlazor](https://mudblazor.com/) - For faster and easier web development
@@ -364,9 +367,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 #### Learning
 * [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/) - Microsoft Learn
 
-#### Articles
-* [What is the difference between Blazor WebAssembly vs. Server?](https://www.telerik.com/faqs/blazor-ui/what-is-the-difference-between-blazor-webassembly-vs-server)
-* [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/)
+#### Tools
+* [The ultimate favicon generator](https://favicomatic.com/) - favicomatic.com
+
 
 #### Deploy
 * [Building a static web app with Blazor in Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/deploy-blazor) ☁
