@@ -130,7 +130,7 @@ IAmTimCorey (October 2019)
   * Examples
     - [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) 
     - [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture)
-
+* [Architectural principles](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
 
 -----
 ## Fluent Design
