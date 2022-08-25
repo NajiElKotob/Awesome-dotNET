@@ -236,6 +236,10 @@ Multi-Platform App User Interface
   * [Introducing the .NET MAUI Community Toolkit (Preview)](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/)
   * [The Future of Xamarin Community Toolkit](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/)
 
+##### Code
+* [.NET MAUI goodlooking UI Samples](https://github.com/jsuarezruiz/dotnet-maui-showcase)
+
+
 ##### Articles
 * [Getting started with Microsoft .NET MAUI](https://subscribe.packtpub.com/getting-started-with-microsoft-net-maui/) :star: - packtpub.com
 * [Announcing .NET Multi-platform App UI Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-multi-platform-app-ui-preview-3/) - David Ortinau (April 2021)
