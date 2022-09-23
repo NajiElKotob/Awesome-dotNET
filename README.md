@@ -239,6 +239,8 @@ Multi-Platform App User Interface
 ##### Code
 * [.NET MAUI goodlooking UI Samples](https://github.com/jsuarezruiz/dotnet-maui-showcase)
 
+##### Learn
+* [Learn Live: Build mobile and desktop apps with .NET MAUI](https://learn.microsoft.com/en-us/events/learn-events/learnlive-mobile-desktop-apps-dotnet-maui/)
 
 ##### Articles
 * [Getting started with Microsoft .NET MAUI](https://subscribe.packtpub.com/getting-started-with-microsoft-net-maui/) :star: - packtpub.com
