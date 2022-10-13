@@ -406,7 +406,8 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 ### WebAPI
 * [ASP.NET Web APIs](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
 * [Test web APIs with the HttpRepl](https://docs.microsoft.com/en-us/aspnet/core/web-api/http-repl/)
- 
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - jsonplaceholder.typicode.com | Free fake API for testing and prototyping.
+
 ### Microservice 🔬
 * [Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/) - Akhil Mittal
 
