@@ -259,6 +259,7 @@ Multi-Platform App User Interface
 
 ##### Design
 * [Method of Action](https://editor.method.ac/)
+* [.NET MAUI goodlooking UI Samples](https://github.com/jsuarezruiz/dotnet-maui-showcase) - 
 
 ##### Tools
 * [Visual Studio App Center](https://appcenter.ms/) - Continuously build, test, release, and monitor apps for every platform.
