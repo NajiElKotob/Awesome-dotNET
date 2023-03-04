@@ -337,6 +337,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Blazing Pizza (App Building Workshop)](https://github.com/dotnet-presentations/blazor-workshop)
 * [Lifecycle Is Not Always Straightforward](https://www.thinktecture.com/en/blazor/blazor-components-lifecycle-is-not-always-straightforward/) - thinktecture.com
 
+#### Blazor Hybrid
+* [Let's Learn .NET - Blazor Hybrid 📺](https://www.youtube.com/watch?v=iI058EA_maE&list=PLdo4fOcmZ0oVGRpRwbMhUA0KAvMA2mLyN) - dotNET | James Montemagno
+
 #### YouTube :tv:
 * [Blazor WebAssembly Tutorials (Curious Drive)](https://www.youtube.com/playlist?list=PL4WEkbdagHIRjjBJvK_TSfddJSvEEAtnt)
 * [Blazor for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUJCA3DCzKT79Oe3kdKEceX) - dotNET
