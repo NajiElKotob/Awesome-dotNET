@@ -429,12 +429,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [Active Server Pages](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524929(v=vs.90))
 
 -----
-
-
-
-### DevOps
-* [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Plan smarter, collaborate better and ship faster with a set of modern dev services.
-
+## Security
 
 -----
 ## HoloLens
