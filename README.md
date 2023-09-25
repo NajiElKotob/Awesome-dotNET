@@ -430,7 +430,9 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 -----
 ## Security
+* [An Illustrated Guide to OAuth and OpenID Connect 📺 ~17min](https://www.youtube.com/watch?v=t18YB3xDfXI) - OktaDev
 
+  
 -----
 ## HoloLens
 * [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
