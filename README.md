@@ -430,6 +430,7 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 
 -----
 ## Security
+### OAuth and OIDC
 * [An Illustrated Guide to OAuth and OpenID Connect 📺 ~17min](https://www.youtube.com/watch?v=t18YB3xDfXI) - OktaDev
 * [OAuth 2.0 & OpenID Connect (OIDC): Technical Overview 📺 ~16min](https://www.youtube.com/watch?v=rTzlF-U9Y6Y) - VMware End-User Computing
   
