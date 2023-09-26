@@ -435,7 +435,10 @@ Blazor is a framework for building interactive client-side web UI using C# inste
 * [OAuth 2.0 & OpenID Connect (OIDC): Technical Overview 📺 ~16min](https://www.youtube.com/watch?v=rTzlF-U9Y6Y) - VMware End-User Computing
 ### Token
 * [ID Token and Access Token: What's the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) - auth0.com
-
+### Identity Server
+#### Duende
+* [Basics Part 1: Introduction to ASP.NET Core Authentication & Authorization 📺 ~1 hour](https://www.youtube.com/watch?v=02Yh3sxzAYI) - Duende Software
+  
 -----
 ## HoloLens
 * [Introduction to the HoloLens](https://msdn.microsoft.com/en-us/magazine/mt788624) - HoloLens is a mixed reality device, a device that tries to blend the real and digital worlds. 
